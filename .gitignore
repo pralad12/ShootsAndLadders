@@ -1,0 +1,7 @@
+/bin/
+.classpath
+.gradle/
+.project
+.gitbackup/
+.gitignorebackup
+.DS_Store
